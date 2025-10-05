@@ -1,0 +1,8 @@
+# Alternative requirements for Python 3.12+
+flask==3.0.0
+flask-cors==4.0.0
+numpy>=1.26.0
+# Use tensorflow-cpu for lighter installation
+tensorflow-cpu>=2.16.0
+# Or if you have GPU:
+# tensorflow>=2.16.0
